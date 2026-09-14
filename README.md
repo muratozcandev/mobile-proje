@@ -13,7 +13,7 @@ oluşturularak çözülecektir.
 
 - Ana proje yapısı
 - Kullanıcı arayüzü
-- Profil sistemi
+- Kullanıcı profil sistemi
 
 ## Kullanılan Teknolojiler
 
